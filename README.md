@@ -41,7 +41,7 @@
 ## 🏆 **GitHub Stats**  
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vergarra&show_icons=true&theme=radical&hide_border=true)](https://github.com/vergarra)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vergarra&layout=compact&theme=radical&hide_border=true)](https://github.com/vergarra)
 
 ---
 
