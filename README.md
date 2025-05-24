@@ -1,16 +1,12 @@
 ## Hi there 👋
 
 
-### Hello, I'm Maria. 
+### Hello, I'm Maria. **Full-Stack Developer**  
 
 
 <h5> I love writing code and learn anythings about it. <img src="https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif" alt="" width="70"> </h5>
 
 
-
-
- 
-### **Full-Stack Developer**  
 🚀 Building scalable web apps with modern tech stacks | Open-source enthusiast  
 
 ---
