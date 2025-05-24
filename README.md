@@ -3,7 +3,7 @@
 
 ### Hello, I'm Maria. **Full-Stack Developer**  
 
- <img src="https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif" alt="" width="70">I love writing code and learn anythings about it. 
+ <img src="https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif" alt="" width="70">    I love writing code and learn anythings about it. 
 
 
 🚀 Building scalable web apps with modern tech stacks | Open-source enthusiast  
