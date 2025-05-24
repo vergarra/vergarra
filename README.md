@@ -44,7 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vergarra&layout=compact&theme=radical&hide_border=true)](https://github.com/vergarra)
 
 ---
-
+<!--
 ## 🔥 **Featured Projects**  
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=radical)](https://github.com/YOUR_USERNAME/REPO_NAME)  
@@ -61,9 +61,9 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /> 
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="vergarra" /> 
 </p>**
-
+-->
 
 
 
