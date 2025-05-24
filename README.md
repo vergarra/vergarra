@@ -3,7 +3,8 @@
 
 ### Hello, I'm Maria. 
 
-### ![https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif]( I love writing code and learn anythings about it.)
+
+## ![I love writing code and learn anythings about it.](https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif)
 
 
 <!--
