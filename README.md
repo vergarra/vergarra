@@ -4,7 +4,7 @@
 ### Hello, I'm Maria. 
 
 
-<h1> I love writing code and learn anythings about it. <img src="https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif" alt="" width="70"> </h1>
+<h5> I love writing code and learn anythings about it. <img src="https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif" alt="" width="70"> </h5>
 <!--
 **vergarra/vergarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
