@@ -6,7 +6,7 @@
 
 I love writing code and learn anythings about it.
 
-<img src="https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif" alt="" width="70" ">
+<img src="https://github.com/vergarra/vergarra/blob/main/kitten-keybo.gif" alt="" width="70">
 <!--
 **vergarra/vergarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
