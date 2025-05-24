@@ -9,8 +9,8 @@
 
 
 
-**# 💻 **Hi, I'm [Your Name]**  
-### **Full-Stack Developer | JavaScript & Python Expert**  
+ 
+### **Full-Stack Developer**  
 🚀 Building scalable web apps with modern tech stacks | Open-source enthusiast  
 
 ---
@@ -34,14 +34,13 @@
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🏆 **GitHub Stats**  
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)  
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vergarra&show_icons=true&theme=radical&hide_border=true)](https://github.com/vergarra)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ---
